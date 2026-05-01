@@ -182,7 +182,7 @@ export default function Home() {
       <div style={{ padding: "16px 24px 12px" }}>
         <div style={{ background: "rgba(239,68,68,0.06)", border: "1px solid rgba(239,68,68,0.15)", borderRadius: "12px", padding: "12px 16px" }}>
           <div style={{ fontSize: "11px", fontWeight: "700", color: "#f87171", marginBottom: "4px" }}>Sam KPI</div>
-          <div style={{ fontSize: "11px", color: "#94a3b8", lineHeight: "1.6" }}>每月最少成交 2 单 · 每单 SGD 900<br />Lead超过3天没跟进 = ⚠ 红色警告</div>
+          <div style={{ fontSize: "11px", color: "#94a3b8", lineHeight: "1.6" }}>每月最少成交 2 单 · 每单 SGD 350<br />Lead超过3天没跟进 = ⚠ 红色警告</div>
         </div>
       </div>
       <div style={{ height: "40px" }} />
